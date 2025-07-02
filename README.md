@@ -15,11 +15,11 @@ Pronouns: he/him/his
 - Collaborated in an Agile team to consolidate regional codebases, accelerating deployment velocity for Canadian site.
   
 ## Software Engineer I at Warner Pacific Insurance Services 💼
-- Enhance functionality and optimize performance of a legacy .NET application, closing 2 defect tickets per week.
-- Develop scripts and automate workflows in GMC Inspire Designer to create PDF form templates.
-- Contribute to a team using Agile SCRUM methodologies, using Jira to manage and deliver features.
-- Utilize Microsoft SQL Server Management Studio to add insurance application data and troubleshoot issues.
-- Collaborate with business users to troubleshoot and resolve issues, ensuring uninterrupted business operations.
+- Spearheaded the end-to-end development of an AWS hosted application to replace third-party solutions, cutting costs.
+- Optimized PDF form template workflows to achieve a 50% improvement in efficiency, streamlining operational processes.
+- Collaborated in an Agile SCRUM environment using Jira to plan, track, and deliver high-quality features on time.
+- Coordinated team members, bridging technical concepts and business objectives in stakeholder presentations.
+- Translated complex technical requirements into clear plans for non-technical stakeholders, ensuring alignment.
   
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lehrhardt3559/)
