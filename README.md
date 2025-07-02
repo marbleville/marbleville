@@ -4,9 +4,9 @@ I’m a Computer Science student interested in software development and web deve
 Pronouns: he/him/his
 
 ## Tech Stack 💻
-- Languages: JavaScript (Node.js), TypeScript, C/C++, C\#, Java, Python, SQL, Bash, LaTeX \
-- Libraries/Frameworks: Express.js, Apryse PDF SDK, React, Next.js, Redux, JUnit, Jest, MySQL, SQLite, PostgreSQL \
-- Software/Tools: GitHub, Git, Jira, Postman, Cursor, VS Code, IntelliJ IDEA, Microsoft SQL Server Management Studio, gdb, Make, UTM, AWS, GMC Inspire Designer\
+- Languages: JavaScript (Node.js), TypeScript, C/C++, C#, Java, Python, SQL, Bash, LaTeX 
+- Libraries/Frameworks: Express.js, Apryse PDF SDK, React, Next.js, Redux, JUnit, Jest, MySQL, SQLite, PostgreSQL 
+- Software/Tools: GitHub, Git, Jira, Postman, Cursor, VS Code, IntelliJ IDEA, Microsoft SQL Server Management Studio, gdb, Make, UTM, AWS, GMC Inspire Designer
 - Operating Systems: Mac, Windows, Linux (Debian)
 
 ## Currently Software Engineer I Co-op at Chewy, Inc. 💼
