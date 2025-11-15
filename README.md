@@ -1,45 +1,32 @@
-<div style="
-  display: flex; 
-  align-items: center; 
-  justify-content: flex-start;
-  gap: 40px; 
-  padding: 30px 40px; 
-  border-radius: 20px; 
-  background: #155433ff;
-">
-
-<img 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Biking%20Light%20Skin%20Tone.png" 
-    alt="Man Biking Light Skin Tone" 
-    width="130" 
-    height="130"
-  />
-
-  <div style="margin-left: 30px;">
-    <h1 style="
-      margin: 0; 
-      padding: 0; 
-      font-size: 46px; 
-      font-family: 'Segoe UI', 'Inter', 'Poppins', sans-serif;
-      font-weight: 600;
-      color: #DCE0DD;
-    ">
-      Hi, I'm Allen
-    </h1>
-  </div>
-
-</div>
+<table align="center" >
+  <tr>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Biking%20Light%20Skin%20Tone.png"
+        alt="Man Biking Light Skin Tone"
+        width="130"
+        height="130"
+      />
+    </td>
+    <td>
+      <h1>Hi, I'm Allen</h1>
+    </td>
+  </tr>
+</table>
 
 ---
 
-- I’m a Computer Science student interested in software and web development!
-- In my free time, I enjoy cycling, cooking, and coding.
+Backend-leaning software engineer with experience shipping production systems across web, data, and distributed architectures. I build reliable, high-performance software and enjoy solving complex technical problems.
+
+> - Built a full replacement for a third-party enterprise platform
+> - Delivered features and debugging support for real-time data pipelines
+> - Projects include TCP-style networking layers and collaborative sheet backends
+> - Skilled in TypeScript, Node.js, cloud and AI technologies
 
 ## Tech Stack ⚙️
 
-### Languages
-
 <p>
+  <strong>Languages:</strong><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -76,9 +63,12 @@
 ---
 
 ## Work GitHub Accounts
+
+<div align="center" >
 <a href=https://github.com/lehrhardt-chwy>
-<img width=80 height=25 src="./Chewy_Logo_0.svg">
+  <img width=80 height=25 src="./Chewy_Logo_0.svg">
 </a>
+</div>
 
 ---
 
