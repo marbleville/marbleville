@@ -64,6 +64,9 @@ Backend-leaning software engineer with experience shipping production systems ac
 ## Work GitHub Accounts
 
 <div align="center" >
+<a href=https://github.com/Allen-Ehrhardt_WPIS>
+  <img width=80 height=80 src="./WP_logo.png">
+</a>
 <a href=https://github.com/lehrhardt-chwy>
   <img width=80 height=25 src="./Chewy_Logo_0.svg">
 </a>
